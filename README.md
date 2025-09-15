@@ -5,11 +5,13 @@ Cloud Architect with hands-on experience across Java, .NET, PHP, Node.js, DevOps
 I design scalable cloud-native solutions and love exploring new tech.
 
 🎓 B.E in IT 2005
+
 📍 Based in Mumbai, India
 
 Outside of work:
 
 ✍️ I write blogs
+
 🎥 I review tech on YouTube
 
 ---
@@ -44,5 +46,4 @@ Outside of work:
 - Writing technical blogs
 - Exploring **AI/ML applications**
 
----
-⭐️ From [Your Name](https://github.com/navedrizv)
+

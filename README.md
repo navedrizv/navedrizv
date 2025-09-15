@@ -13,9 +13,8 @@ Outside of work:
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript | Python | TypeScript | Java | C++  
+- **Languages:** JavaScript | TypeScript | PHP | Node.js | Express
 - **Frontend:** React | Next.js | HTML | CSS   
-- **Backend:** PHP | Node.js | Express
 - **Databases:** MySQL | PostgreSQL | MongoDB  
 - **DevOps / Tools:** Docker | Git | GitHub Actions | AWS | Terraform | Ansible  
 

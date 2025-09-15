@@ -4,9 +4,9 @@
 Cloud Architect with hands-on experience across Java, .NET, PHP, Node.js, DevOps & Cloud.
 I design scalable cloud-native solutions and love exploring new tech.
 
-B.E IT (2005)
+🧑‍🎓 B.E IT (2005)
 
-Outside of work: <br>
+🎈Outside of work: <br>
 ✍️ I write blogs <br>
 🎥 I review tech on YouTube
 

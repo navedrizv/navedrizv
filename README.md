@@ -4,9 +4,8 @@
 Cloud Architect with hands-on experience across Java, .NET, PHP, Node.js, DevOps & Cloud.
 I design scalable cloud-native solutions and love exploring new tech.
 
-🎓 B.E in IT 2005
-
-📍 Based in Mumbai, India
+-🎓 B.E in IT 2005
+-📍 Based in Mumbai, India
 
 Outside of work:
 

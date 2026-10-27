@@ -4,7 +4,6 @@ Product Manager and Presales Architect based in Mumbai. I build Cloud Management
 
 🧑‍🎓 B.E IT (2005)
 
----
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript | TypeScript | PHP | Node.js | Express

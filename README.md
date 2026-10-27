@@ -17,7 +17,7 @@ Product Manager and Presales Architect based in Mumbai. I build Cloud Management
 
 **DevOps:** 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
----
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 
 ## 🤝 Connect with Me
 <p>

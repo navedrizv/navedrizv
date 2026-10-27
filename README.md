@@ -27,7 +27,7 @@ Product Manager and Presales Architect based in Mumbai. I build Cloud Management
 
 </p>
 
----
+
 
 ## 🌱 Current Focus
 - Learning **AIOPS, FinOps,Tokenomics**

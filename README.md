@@ -1,14 +1,8 @@
-# 👋 Hi, I'm Naved
+# 👋 Hi, I'm Naweed Rizvi
 
-## 🚀 About Me
-Cloud Architect with hands-on experience across Java, .NET, PHP, Node.js, DevOps & Cloud.
-I design scalable cloud-native solutions and love exploring new tech.
+Product Manager and Presales Architect based in Mumbai. I build Cloud Management and FinOps products and also sell it. I interact with customers and respond to their business requirements.
 
 🧑‍🎓 B.E IT (2005)
-
-🎈Outside of work: <br>
-✍️ I write blogs <br>
-🎥 I review tech on YouTube
 
 ---
 
@@ -37,8 +31,8 @@ I design scalable cloud-native solutions and love exploring new tech.
 ---
 
 ## 🌱 Current Focus
-- Learning **AIOPS, FinOps, Cloud Security**
+- Learning **AIOPS, FinOps,Tokenomics**
 - Writing technical blogs
-- Exploring **AI/ML applications**
+- Exploring **AI/ML**
 
 

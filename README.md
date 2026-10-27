@@ -20,17 +20,7 @@ Product Manager and Presales Architect based in Mumbai. I build Cloud Management
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 
 ## 🤝 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/sayednaweedrizvi/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/navedrizv" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=devdotto&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/c/SayedNaweedRizvi" target="_blank">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white"/>
-</a>
-
-</p>
+<p><a href="https://www.linkedin.com/in/sayednaweedrizvi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a><a href="https://dev.to/navedrizv" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=devdotto&logoColor=white"/></a><a href="https://www.youtube.com/c/SayedNaweedRizvi" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white"/></a></p>
 
 
 
